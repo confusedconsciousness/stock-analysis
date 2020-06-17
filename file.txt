@@ -1,0 +1,22 @@
+## Context
+
+Stock market data can be interesting to analyze and as a further incentive, strong predictive models can have large financial payoff. The amount of financial data on the web is seemingly endless. A large and well structured dataset on a wide array of companies can be hard to come by. Here we provide a dataset with historical stock prices (last 5 years) for all companies currently found on the S&P 500 index.
+
+
+## Content
+
+All the files have the following columns:
+
+**Date** - in format: yy-mm-dd
+
+**Open** - price of the stock at market open (this is NYSE data so all in USD)
+
+**High** - Highest price reached in the day
+
+**Low Close** - Lowest price reached in the day
+
+**Volume** - Number of shares traded
+
+**Name** - the stock's ticker name
+
+Following is a glimpse of how the data looks like:
